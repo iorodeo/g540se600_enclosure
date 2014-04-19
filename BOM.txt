@@ -1,4 +1,48 @@
+BOM:
+
+Mean Well SE600-48 AC to DC Power Supply Single Output 48 Volt 12.5 Amp 600 Watt, Jameco 295929
+
+G540 4-Axis Digital Step Drive  www.geckodrive.com
+
+AC Infinity LS8038A-X Standard Cooling Fan, 115V AC 80mm by 80mm by 38mm Low Speed (Amazon)
 
 Aluminum hex standoff: 4" length, 3/8" diameter, 10-32  McMaster-Carr 91780A904    
 
 Cord Grip:  trade size 1/2",  OD 0.84",  cord sizes 0.20"-0.35" McMaster-Carr 69915K54    
+
+
+# -------------------------------------------------------------------------------------------------
+
+Optional:
+
+Motor cables with over molded resistors (@540e end) CNC Router Parts 
+http://www.cncrouterparts.com/cnc-motor-cable-p-45.html
+
+Nema 23 motors 1/4" shaft, CNC Router Parts
+http://www.cncrouterparts.com/380-oz-in-nema-23-stepper-motor-14-shaft-p-151.html
+
+Nema 23 motors 3/8" shaft, CNC Router Parts
+http://www.cncrouterparts.com/320-oz-in-28-mh-nema-23-stepper-motor-38-shaft-p-188.html
+
+
+# -------------------------------------------------------------------------------------------------
+
+Notes:
+
+Motor drive (G540), power supply (SE600-48), w/ 3-4 stepper motors + cables can be purchased as
+a bundle from CNC Router Parts
+
+3-Axis
+http://www.cncrouterparts.com/3-axis-electronics-kit-p-74.html
+
+4-Axis
+http://www.cncrouterparts.com/4-axis-electronics-kit-p-75.html
+
+
+
+
+
+
+
+
+
